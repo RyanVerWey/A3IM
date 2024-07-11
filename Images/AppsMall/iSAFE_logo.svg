@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<svg viewBox="0 0 420 450" width="420" height="450" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>SAFE Logo</title>
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <filter id="svg_32_blur">
+   <feGaussianBlur stdDeviation="0.7"/>
+  </filter>
+  <filter id="svg_38_blur">
+   <feGaussianBlur stdDeviation="0.5"/>
+  </filter>
+  <linearGradient id="svg_51" spreadMethod="reflect" x1="0.623698" x2="1" y1="0.65625" y2="0">
+   <stop offset="0" stop-color="#babcbe"/>
+   <stop offset="1" stop-color="#7f7c79" stop-opacity="0.996094"/>
+  </linearGradient>
+  <linearGradient id="svg_56" spreadMethod="reflect" x1="0.436198" x2="0.697917" y1="0.597656" y2="0.058594">
+   <stop offset="0.00651" stop-color="#d6d4d4" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#565555" stop-opacity="0.996094"/>
+  </linearGradient>
+  <linearGradient id="svg_15" spreadMethod="reflect" x1="0.268229" x2="0.494792" y1="0.929688" y2="0.550781">
+   <stop offset="0" stop-color="#122c3d"/>
+   <stop offset="1" stop-color="#2c3c63" stop-opacity="0.992188"/>
+  </linearGradient>
+  <path d="M174,338.5a30,30 0 1,0 60,0a30,30 0 1,0 -60,0" id="textcircle" transform="rotate(78, 204, 338.5)" />
+  <style>
+        text { 
+            font-size: 8pt;
+            font-family: sans-serif;
+			font-weight: 700;
+			letter-spacing: -0.36px;
+        }
+    </style>
+ </defs>
+ <g class="layer">
+  <title>Logo</title>
+  <rect fill="#b9202a" height="15" id="svg_25" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="61" x="173" y="200"/>
+  <rect fill="#122c3d" height="28.000002" id="svg_12" rx="6" ry="6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="58.999986" x="174.500018" y="216.499994"/>
+  <rect fill="#122c3d" height="48" id="svg_10" rx="6" ry="6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="181.999986" x="5.500013" y="190.50001"/>
+  <rect fill="#ffffff" height="16" id="svg_13" stroke="#ffffff" stroke-width="0" width="207" x="17" y="220.899994"/>
+  <rect fill="#cca321" height="212.99999" id="svg_1" rx="5" ry="5" stroke-width="5" width="407.999968" x="5.5" y="230.500011"/>
+  <rect fill="#cca321" height="34" id="svg_6" rx="6" ry="6" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="181.999986" x="231.500013" y="204.500008"/>
+  <polygon fill="#cca321" id="svg_9" points="236.89801025390625,227.50001525878906 216.8695068359375,245.5509948730469 216.8695068359375,209.44903564453125 236.89801025390625,227.50001525878906 " stroke-width="5" transform="rotate(44.6312, 226.884, 227.5)"/>
+  <polygon fill="#122c3d" id="svg_11" points="201.35504150390625,211.42384338378906 181.3265380859375,229.47482299804688 181.3265380859375,193.37286376953125 201.35504150390625,211.42384338378906 " stroke-width="5" transform="rotate(134.723, 191.341, 211.424)"/>
+  <path d="m24.2793,67.12747l60.05773,-59.856l60.05774,59.856l-30.02887,0l0,7.14402l-60.05773,0l0,-7.14402l-30.02887,0z" fill="#fde607" id="svg_16" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m143.44141,130.35599l60.05773,-59.85601l60.05773,59.85601l-30.02886,0l0,7.14402l-60.05773,0l0,-7.14402l-30.02887,0z" fill="#b9202a" id="svg_17" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <path d="m271.44141,107.35599l60.05773,-59.85601l60.05773,59.85601l-30.02886,0l0,7.14402l-60.05773,0l0,-7.14402l-30.02887,0z" fill="#448940" id="svg_18" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="#448940" height="15" id="svg_20" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="61" x="301.5" y="178.5"/>
+  <rect fill="#fde607" height="15" id="svg_29" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="61" x="54" y="139"/>
+  <rect fill="#fde607" height="15" id="svg_30" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" width="61" x="53" y="166"/>
+  <circle cx="204" cy="338.5" fill="url(#svg_51)" filter="url(#svg_32_blur)" id="svg_32" r="83" stroke="#7f7f7f" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <circle cx="204" cy="338.5" fill="url(#svg_15)" filter="url(#svg_38_blur)" id="svg_38" r="57.6" stroke="#7f7f87" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="3"/>
+  <circle cx="204" cy="338.5" fill="url(#svg_56)" id="svg_47" r="31.5" stroke="#333344" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="2"/>
+  <rect fill="#fde607" height="15" id="svg_58" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="54" y="112.5"/>
+  <rect fill="#b9202a" height="15" id="svg_61" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="173" y="174.5"/>
+  <rect fill="#fde607" height="15" id="svg_62" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="54" y="85.5"/>
+  <rect fill="#b9202a" height="15" id="svg_63" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="173" y="148.5"/>
+  <rect fill="#448940" height="15" id="svg_64" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="301" y="152.5"/>
+  <rect fill="#448940" height="15" id="svg_65" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="0" width="61" x="301" y="125.5"/>
+  <text dy="43" textLength="183">
+	<textPath href="#textcircle">Intelink Secure Access File Exchange -</textPath>
+  </text>
+ </g>
+</svg>
